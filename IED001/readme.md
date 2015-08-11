@@ -2,4 +2,4 @@
 
 Fatec Americana - 2s2015
 
-Professor: ANTONIO ALFREDO LACERDA
+Professor: Antonio Alfredo Lacerda
