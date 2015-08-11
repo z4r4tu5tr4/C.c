@@ -1,6 +1,5 @@
 #IED001 - Estrutura de dados
 
-Fatec Americana
-ANTONIO ALFREDO LACERDA
+Fatec Americana - 2s2015
 
-2s2015
+Professor: ANTONIO ALFREDO LACERDA
