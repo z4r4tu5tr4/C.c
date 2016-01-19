@@ -1,6 +1,5 @@
 #include <stdlib.h>
 #include <stdio.h>
-#include <string.h>
 
 int opt = 0;
 int x,y = 0;
@@ -21,7 +20,7 @@ cripto(int chave){
     for (x = 0; x < strlen(entrada); x++){
 
       for(y = 0; y < strlen(alfabeto); y++){
-          if(entrada[x] == alfabeto[y]){
+          if( tolower(entrada[x]) == alfabeto[y]){
             printf("%c",alfabeto[(y+13)%26]);
           }
         }
