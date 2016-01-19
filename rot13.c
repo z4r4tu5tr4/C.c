@@ -8,7 +8,7 @@ char entrada [];
 
 relacao(){
     for (x = 0; x < strlen(alfabeto)/2; x++){
-        printf("%c <-> %c\n",alfabeto[x],alfabeto[x+13%26]);
+        printf("%c <-> %c\n",alfabeto[x],alfabeto[(x+13)%26]);
     }
     menu();
 }
