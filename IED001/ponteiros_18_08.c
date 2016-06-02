@@ -16,7 +16,8 @@ void main(){
 	pb = &b;
 
 	printf("Imprimindo o endereço do ponteiro %u\n",pa);
-	printf("Imprimindo o valor da variáve %u\n",&a);
+	/* Esses erros de portuga não pode ter não... Faltando um L na linha 20 é pecado */
+	printf("Imprimindo o valor da variável %u\n",&a);
 	printf("Imprimindo o valor da variável contida no ponteiro %u\n",*pa);
 
 }
